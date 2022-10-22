@@ -6,4 +6,4 @@ Lover of :star2: Astronomy, :cloud: Networking,  :computer: FullStack.
 
 
 <h2 align="center">Projects</h2>
-<p align="center">Take a look at my projects.</p>
+<p align="center">Take a look at my projects below on the pinned repositories.</p>
